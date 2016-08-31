@@ -4,9 +4,9 @@ Perfect Pitch is a vocal training app that will graph the user's vocals and comp
 
 ## Team
 
-  - __Product Owner__: Frank Lee
-  - __Scrum Master__: Jae Shin
-  - __Development Team Members__: Jeff Leu, Joann Im
+  - __Product Owner__: Matt Aftalion
+  - __Scrum Master__: Hien Tran
+  - __Development Team Members__: Hongchao Yu, Yuyi Li
 
 ## Table of Contents
 
